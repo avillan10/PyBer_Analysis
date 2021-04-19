@@ -1,7 +1,7 @@
 # Pyber with Matplotlib
 
 ## Purpose
-This project we have to use our new Python skills and knowledge of Pandas to create a summary DataFrame of the ride-sharing data by city type. Then also use Pandas and Matplotlib to create a multiple-line graph that displays the total weekly fares for each city type. And lastly, we are to submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers of the company PyBer.
+In this project we have to use our new Python skills and knowledge of Pandas to create a summary DataFrame of the ride-sharing data by city type. Then also use Pandas and Matplotlib to create a multiple-line graph that displays the total weekly fares for each city type. And lastly, we are to submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers of the company PyBer.
 
 ## Results
 According to the summary dataframe, the data suggests that types of areas/ cities correlate to the total number of rides---the dataframe displays that Urban cities produce more rides (1625), whereas Rural areas produce the least amount of rides (125). The data also suggests that Urban cities have more drivers (2405) and Rural areas have the least amount of drivers (78). The data shows that heavily populated areas such as Urban cities have high counts of total rides and total drivers. 
