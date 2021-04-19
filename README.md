@@ -10,7 +10,7 @@ In terms of cost, Urban cities produce more revenue for the company---which can 
 
 In the multiple-line chart, we were able to compare total fares by city type over the course of five months (from Jan. - May). The number of rides seem peak at the end of February and decrease by the time March comes along. Each line for each city type displays very similar trends---however the red line for Suburban areas shows a sharp increase in the month of April. 
 
-## Screen Capture of the Data Frame and Multiple Line Chart 
+## Screen Captures of the Data Frame and Multiple Line Chart 
 Fig9_summary_dataframe![image](https://user-images.githubusercontent.com/80291340/115167004-ae871d00-a06a-11eb-818a-c5d78e4e61d0.png)
 Fig10_Pyber_FareSummary.png![image](https://user-images.githubusercontent.com/80291340/115167015-b47cfe00-a06a-11eb-89e4-8ae3a161353f.png)
 
